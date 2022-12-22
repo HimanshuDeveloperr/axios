@@ -16,3 +16,7 @@ inside the function
         url :- that you want to fetch
     }).then:-cause it is going to return a promise
 }
+
+url= base url/route
+
+route is like a path what you put here will tell the server/backend where you want to go/what is exactly you are requesting for
